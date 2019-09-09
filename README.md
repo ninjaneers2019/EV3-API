@@ -1,4 +1,4 @@
-# EV3-API
+# EV3G4C
 The intention of this project is to provide a set of 'C' functions that emulate the behaviour of the various sensor and motor 'blocks' in the EV3 Graphical programming language.
 
 This should act as a familiar interface layer for those wishing to migrate from the EV3-G language to 'C'.  
